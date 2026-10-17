@@ -1,0 +1,9 @@
+{
+  "name": "quota-band",
+  "version": "0.1.0",
+  "description": "Shows remaining 5-hour and weekly rate-limit quota as a status line under the prompt",
+  "author": { "name": "SodaSolas" },
+  "repository": "https://github.com/SodaSolas/claude-quota-band",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

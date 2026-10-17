@@ -1,0 +1,6 @@
+{
+  "name": "claude-quota-band",
+  "description": "Claude Code mod showing remaining 5-hour and weekly quota",
+  "owner": { "name": "SodaSolas" },
+  "plugins": [{ "name": "quota-band", "source": "./" }]
+}
